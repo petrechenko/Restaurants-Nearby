@@ -1,0 +1,24 @@
+{
+  "name": "petrechenko-cs50-2019-x-project-20190711t165934z",
+  "version": "1.0.0",
+  "description": "https://petrean-restaurants-nearby.herokuapp.com/ Final project for CS50 course. I used Google Maps API to show your location and the restaurants arounf you.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrechenko/Restaurants-Nearby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petrechenko/Restaurants-Nearby/issues"
+  },
+  "homepage": "https://github.com/petrechenko/Restaurants-Nearby#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
